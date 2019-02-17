@@ -1,7 +1,7 @@
 ﻿# Variables passed from command line
 
 $Month = 'Needfest'
-$Day = '7'
+$Day = '6'
 
 
 # Calculate Solstace Special Days
@@ -61,6 +61,8 @@ if (($Month -eq 'Sunsebb') -or ($Month -eq 'Fireseek')) {
 
 # Day of the week
 # Starday is always on the 1st, 8th, 15th, and 22nd of the month.
+$StarDay = 1,8,15,22
+
 # Sunday is always on the 2nd, 9th, 16th, and 23rd of the month.
 # Moonday is always on the 3rd, 10th, 17th, and 24th of the month.
 # Godsday is always on the 4th, 11th, 18th, and 25th of the month.
@@ -126,35 +128,4 @@ Write-Host "Luna is" $Luna
 Write-Host "Celene is" $Celene
 Write-Host "The Season is:" $Season
 Write-Host "Additional information:" $Solstace
-
-
-
-
-# Months
-
-#Month	Common  Season
-# Needfest
-# 01	Fireseek	Winter
-# 02	Readying	Spring
-# 03	Coldeven	Spring
-# Growfest
-# 04	Planting	Low Summer
-# 05	Flocktime	Low Summer
-# 06	Wealsun		Low Summer
-# Richfest (Midsummer)
-# 07	Reaping	High Summer
-# 08	Goodmonth	High Summer
-# 09	Harvester	High Summer
-# Brewfest
-# 10	Patchwall	Autumn
-# 11	Ready'reat	Autumn
-# 12	Sunsebb	Winter
-
-
-
-#Moons
-
-# The months and festivals are based on the cycles of Oerth’s moons,
-# Luna and Celene. Luna has a 28-day cycle, while Celene's cycle is 91 days. 
-# Celene is full at the midpoint of each festival, while Luna is full at various times throughout the year. 
-# Notably, both moons are full on Richfest 3-5.
+Write-Host $StarDay
