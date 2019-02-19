@@ -1,7 +1,7 @@
 ﻿# Variables passed from command line
-
+# Test Variables
 $Month = 'Needfest'
-$Day = '6'
+$Day = '5'
 
 
 # Calculate Solstace Special Days
@@ -14,7 +14,7 @@ if (($Day -eq "4") -and ($Month -eq "Growfest")){
 }
 
 if (($Day -eq "4") -and ($Month -eq "Richfest")){
-    $Solstace = "The Spring Equinox, also known as the Vernal Equinox, is when the night and day are approximately equal in length, marking the beginning of Spring and the approach of Summer."
+    $Solstace = "The Summer Solstace is the longest day of the year."
 }
 
 if (($Day -eq "4") -and ($Month -eq "Brewfest")){
@@ -28,11 +28,11 @@ if ($Month -eq 'Needfest') {
 }
 
 if ($Month -eq 'Growfest') {
-    $Season = 'This frigid seven-day period marks the transition from spring to summer.'
+    $Season = 'This seven-day period marks the transition from spring to summer.'
 }
 
 if ($Month -eq 'Brewfest') {
-    $Season = 'This frigid seven-day period marks the transition from Summer to Autumn.'
+    $Season = 'This seven-day period marks the transition from Summer to Autumn.'
 }
 
 if (($Month -eq 'Readying') -or ($Month -eq 'Coldeven')) {
@@ -128,4 +128,5 @@ Write-Host "Luna is" $Luna
 Write-Host "Celene is" $Celene
 Write-Host "The Season is:" $Season
 Write-Host "Additional information:" $Solstace
-Write-Host $StarDay
+Write-Host "Other Facts of the day:" $Special
+# Write-Host $StarDay
