@@ -1,4 +1,4 @@
-MonthNumber,$Month,$Day,$DayOfWeek,$Season,$Luna,$Celene,$Solstace,$Special
+MonthNumber,Month,Day,DayOfWeek,Season,Luna,Celene,Solstace,Special
 1,Needfest,1,Starday,"This frigid seven-day period marks the transition from one calendar year to another, and is usually accounted as the start of the new year.",New Moon,Full Moon
 1,Needfest,2,Sunday,"This frigid seven-day period marks the transition from one calendar year to another, and is usually accounted as the start of the new year.",New Moon,Full Moon
 1,Needfest,3,Moonday,"This frigid seven-day period marks the transition from one calendar year to another, and is usually accounted as the start of the new year.",New Moon Fading,Full Moon
@@ -11,7 +11,7 @@ MonthNumber,$Month,$Day,$DayOfWeek,$Season,$Luna,$Celene,$Solstace,$Special
 2,Fireseek,3,Moonday,Winter,First Quarter Fading,Waning Gibbous
 2,Fireseek,4,Godsday,Winter,First Quarter Fading,Waning Gibbous
 2,Fireseek,5,Waterday,Winter,Waxing Gibbous,Waning Gibbous
-2,Fireseek,6,Earthday,Winter,Waxing Gibbous,Waning Gibbous,,,,,,,
+2,Fireseek,6,Earthday,Winter,Waxing Gibbous,Waning Gibbous
 2,Fireseek,7,Freeday,Winter,Waxing Gibbous Fading,Waning Gibbous,,,,,,,
 2,Fireseek,8,Starday,Winter,Full Moon,Waning Gibbous Fading,,,,,,,
 2,Fireseek,9,Tuesday,Winter,Full Moon,Waning Gibbous Fading,,,,,,,
