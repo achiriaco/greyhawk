@@ -1,7 +1,7 @@
 ﻿# Test Variables
 
-$InputMonth = 'Needfest'
-$InputDay = '5'
+$InputMonth = Read-Host 'Enter the Month'
+$InputDay = Read-Host 'Enter the Day'
 
 $Requested = Import-Csv .\data.csv | Where-Object {$_.day -eq $InputDay -and $_.month -eq $InputMonth}
 
