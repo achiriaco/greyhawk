@@ -12,3 +12,38 @@ Write-Host "Celene is" $Requested.Celene
 Write-Host "The Season is:" $Requested.Season
 Write-Host "Additional information:" $Requested.Solstace
 Write-Host "Other Facts of the day:" $Requested.Special
+
+            <#
+            .SYNOPSIS
+            Outputs various data for a given month and day in GreyHawk Calendar
+
+            .DESCRIPTION
+            Two Variables are used to calculate the data (InputMonth and InputDay)
+            This program uses the data.csv to do its lookup
+
+            .PARAMETER Name
+            N/A
+
+            .PARAMETER Extension
+            N/A
+
+            .INPUTS
+            None. You cannot pipe objects to Greyhawk.ps1
+
+            .OUTPUTS
+            Fill later
+
+            .EXAMPLE
+            Greyhawk.ps1
+
+            .EXAMPLE
+
+            .EXAMPLE
+
+
+            .LINK
+            
+
+            .LINK
+            
+            #>
