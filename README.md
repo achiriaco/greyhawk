@@ -4,8 +4,8 @@
 This is going to give details about any given day in the Oerth (Greyhawk) fantasy calendar. The main focus is the moon cycles.
 
 Input 2 variables
-$Month
-$Day
+$InputMonth
+$InputDay
 
 ## Calculations and outputs:
 $DayOfWeek 
