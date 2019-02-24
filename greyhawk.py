@@ -12,14 +12,31 @@ import json
 
 # print (parsed_json["Month"])
 
+path = "data.json"
 
-with open('data.json', 'r') as fp:
-    json_data = json.load(fp)
+def read_json(path):
+    with open(path, 'r') as fp:
+        # convert string to python object
+        json_data = json.load(fp)
+        # in the json dictionary we have many dicitonaries in a list
+        # iterate through the list
+        for dictionaires in json_data:
+            # for each ditionary print the keys
+            print(dictionaires.keys())
+            # for each dictionary print this key
+            print(dictionaires['Month'])
+            # here we are assignin the key month to this variable
+            # caution however as ever new iterated dictionary will overwrite the prvious entry
+            month = dictionaires["Month"]
 
+            day = dictionaires["Day"]
 
-month = json_data["Month"]
-day = json_data["Day"]
+'''i imagine youl need to do some sort of if condition here and if successful you would return the dictionary like so
 
+        if input == month:
+            return dictionaries
+
+this will return that one dictionary or json object to the client'''
 
 
 # for distro in distros_dict:
@@ -27,3 +44,9 @@ day = json_data["Day"]
 
 # for item in json_data:
 #     print item.get("Month").get("Day")
+
+'''if name == main is for running code when it is the main module. This code will not run if this module gets imported, it is good for keeping test code without running when importing'''
+if __name__ == '__main__':
+    # execute running the file here if running from this page
+    print(read_json(path))
+    
