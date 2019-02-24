@@ -13,8 +13,8 @@ import json
 # print (parsed_json["Month"])
 
 path = "data.json"
-inputmonth = "Readying"
-inputday = 5
+inputmonth = "Richfest"
+inputday = 4
 
 def read_json(path):
     with open(path, 'r') as fp:

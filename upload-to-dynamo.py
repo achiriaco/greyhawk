@@ -1,4 +1,8 @@
-[
+import boto3
+
+dynamodb=boto3.client("dynamodb")
+dynamoTable=dynamodb.Table("greyhawk_calendar_data")
+dynamoTable.put_item(
   {
     "RecordNumber": 1,
     "MonthNumber": 1,
@@ -4367,4 +4371,4 @@
     "Solstace": "",
     "Special": ""
   }
-]
+)
