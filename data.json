@@ -1,6 +1,6 @@
 [
   {
-    "RecordNumber": 1,
+    "RecordName": 1,
     "MonthNumber": 1,
     "Month": "Needfest",
     "Day": 1,
@@ -8,11 +8,11 @@
     "Season": "This frigid seven-day period marks the transition from one calendar year to another, and is usually accounted as the start of the new year.",
     "Luna": "New Moon",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 2,
+    "RecordName": 2,
     "MonthNumber": 1,
     "Month": "Needfest",
     "Day": 2,
@@ -20,11 +20,11 @@
     "Season": "This frigid seven-day period marks the transition from one calendar year to another, and is usually accounted as the start of the new year.",
     "Luna": "New Moon",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 3,
+    "RecordName": 3,
     "MonthNumber": 1,
     "Month": "Needfest",
     "Day": 3,
@@ -32,11 +32,11 @@
     "Season": "This frigid seven-day period marks the transition from one calendar year to another, and is usually accounted as the start of the new year.",
     "Luna": "New Moon Fading",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 4,
+    "RecordName": 4,
     "MonthNumber": 1,
     "Month": "Needfest",
     "Day": 4,
@@ -48,7 +48,7 @@
     "Special": ""
   },
   {
-    "RecordNumber": 5,
+    "RecordName": 5,
     "MonthNumber": 1,
     "Month": "Needfest",
     "Day": 5,
@@ -56,11 +56,11 @@
     "Season": "This frigid seven-day period marks the transition from one calendar year to another, and is usually accounted as the start of the new year.",
     "Luna": "Waxing Crescent",
     "Celene": "Full Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 6,
+    "RecordName": 6,
     "MonthNumber": 1,
     "Month": "Needfest",
     "Day": 6,
@@ -68,11 +68,11 @@
     "Season": "This frigid seven-day period marks the transition from one calendar year to another, and is usually accounted as the start of the new year.",
     "Luna": "Waxing Crescent",
     "Celene": "Full Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 7,
+    "RecordName": 7,
     "MonthNumber": 1,
     "Month": "Needfest",
     "Day": 7,
@@ -80,11 +80,11 @@
     "Season": "This frigid seven-day period marks the transition from one calendar year to another, and is usually accounted as the start of the new year.",
     "Luna": "Waxing Crescent Fading",
     "Celene": "Full Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 8,
+    "RecordName": 8,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 1,
@@ -92,11 +92,11 @@
     "Season": "Winter",
     "Luna": "First Quarter",
     "Celene": "Full Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 9,
+    "RecordName": 9,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 2,
@@ -104,11 +104,11 @@
     "Season": "Winter",
     "Luna": "First Quarter",
     "Celene": "Full Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 10,
+    "RecordName": 10,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 3,
@@ -116,11 +116,11 @@
     "Season": "Winter",
     "Luna": "First Quarter Fading",
     "Celene": "Waning Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 11,
+    "RecordName": 11,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 4,
@@ -128,11 +128,11 @@
     "Season": "Winter",
     "Luna": "First Quarter Fading",
     "Celene": "Waning Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 12,
+    "RecordName": 12,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 5,
@@ -140,11 +140,11 @@
     "Season": "Winter",
     "Luna": "Waxing Gibbous",
     "Celene": "Waning Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 13,
+    "RecordName": 13,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 6,
@@ -152,11 +152,11 @@
     "Season": "Winter",
     "Luna": "Waxing Gibbous",
     "Celene": "Waning Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 14,
+    "RecordName": 14,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 7,
@@ -164,11 +164,11 @@
     "Season": "Winter",
     "Luna": "Waxing Gibbous Fading",
     "Celene": "Waning Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 15,
+    "RecordName": 15,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 8,
@@ -176,11 +176,11 @@
     "Season": "Winter",
     "Luna": "Full Moon",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 16,
+    "RecordName": 16,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 9,
@@ -188,11 +188,11 @@
     "Season": "Winter",
     "Luna": "Full Moon",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 17,
+    "RecordName": 17,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 10,
@@ -200,11 +200,11 @@
     "Season": "Winter",
     "Luna": "Full Moon Fading",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 18,
+    "RecordName": 18,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 11,
@@ -212,11 +212,11 @@
     "Season": "Winter",
     "Luna": "Full Moon Fading",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 19,
+    "RecordName": 19,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 12,
@@ -224,11 +224,11 @@
     "Season": "Winter",
     "Luna": "Waning Gibbous",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 20,
+    "RecordName": 20,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 13,
@@ -236,11 +236,11 @@
     "Season": "Winter",
     "Luna": "Waning Gibbous",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 21,
+    "RecordName": 21,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 14,
@@ -248,11 +248,11 @@
     "Season": "Winter",
     "Luna": "Waning Gibbous Fading",
     "Celene": "Last Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 22,
+    "RecordName": 22,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 15,
@@ -260,11 +260,11 @@
     "Season": "Winter",
     "Luna": "Last Quarter",
     "Celene": "Last Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 23,
+    "RecordName": 23,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 16,
@@ -272,11 +272,11 @@
     "Season": "Winter",
     "Luna": "Last Quarter",
     "Celene": "Last Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 24,
+    "RecordName": 24,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 17,
@@ -284,11 +284,11 @@
     "Season": "Winter",
     "Luna": "Last Quarter Fading",
     "Celene": "Last Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 25,
+    "RecordName": 25,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 18,
@@ -296,11 +296,11 @@
     "Season": "Winter",
     "Luna": "Last Quarter Fading",
     "Celene": "Last Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 26,
+    "RecordName": 26,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 19,
@@ -308,11 +308,11 @@
     "Season": "Winter",
     "Luna": "Waning Crescent",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 27,
+    "RecordName": 27,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 20,
@@ -320,11 +320,11 @@
     "Season": "Winter",
     "Luna": "Waning Crescent",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 28,
+    "RecordName": 28,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 21,
@@ -332,11 +332,11 @@
     "Season": "Winter",
     "Luna": "Waning Crescent Fading",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 29,
+    "RecordName": 29,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 22,
@@ -344,11 +344,11 @@
     "Season": "Winter",
     "Luna": "New Moon",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 30,
+    "RecordName": 30,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 23,
@@ -356,11 +356,11 @@
     "Season": "Winter",
     "Luna": "New Moon",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 31,
+    "RecordName": 31,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 24,
@@ -368,11 +368,11 @@
     "Season": "Winter",
     "Luna": "New Moon Fading",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 32,
+    "RecordName": 32,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 25,
@@ -380,11 +380,11 @@
     "Season": "Winter",
     "Luna": "New Moon Fading",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 33,
+    "RecordName": 33,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 26,
@@ -392,11 +392,11 @@
     "Season": "Winter",
     "Luna": "Waxing Crescent",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 34,
+    "RecordName": 34,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 27,
@@ -404,11 +404,11 @@
     "Season": "Winter",
     "Luna": "Waxing Crescent",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 35,
+    "RecordName": 35,
     "MonthNumber": 2,
     "Month": "Fireseek",
     "Day": 28,
@@ -416,11 +416,11 @@
     "Season": "Winter",
     "Luna": "Waxing Crescent Fading",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 36,
+    "RecordName": 36,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 1,
@@ -428,11 +428,11 @@
     "Season": "Spring",
     "Luna": "First Quarter",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 37,
+    "RecordName": 37,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 2,
@@ -440,11 +440,11 @@
     "Season": "Spring",
     "Luna": "First Quarter",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 38,
+    "RecordName": 38,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 3,
@@ -452,11 +452,11 @@
     "Season": "Spring",
     "Luna": "First Quarter Fading",
     "Celene": "Waning Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 39,
+    "RecordName": 39,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 4,
@@ -464,11 +464,11 @@
     "Season": "Spring",
     "Luna": "First Quarter Fading",
     "Celene": "Waning Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 40,
+    "RecordName": 40,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 5,
@@ -476,11 +476,11 @@
     "Season": "Spring",
     "Luna": "Waxing Gibbous",
     "Celene": "Waning Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 41,
+    "RecordName": 41,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 6,
@@ -488,11 +488,11 @@
     "Season": "Spring",
     "Luna": "Waxing Gibbous",
     "Celene": "Waning Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 42,
+    "RecordName": 42,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 7,
@@ -500,11 +500,11 @@
     "Season": "Spring",
     "Luna": "Waxing Gibbous Fading",
     "Celene": "Waning Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 43,
+    "RecordName": 43,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 8,
@@ -512,11 +512,11 @@
     "Season": "Spring",
     "Luna": "Full Moon",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 44,
+    "RecordName": 44,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 9,
@@ -524,11 +524,11 @@
     "Season": "Spring",
     "Luna": "Full Moon",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 45,
+    "RecordName": 45,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 10,
@@ -536,11 +536,11 @@
     "Season": "Spring",
     "Luna": "Full Moon Fading",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 46,
+    "RecordName": 46,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 11,
@@ -548,11 +548,11 @@
     "Season": "Spring",
     "Luna": "Full Moon Fading",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 47,
+    "RecordName": 47,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 12,
@@ -560,11 +560,11 @@
     "Season": "Spring",
     "Luna": "Waning Gibbous",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 48,
+    "RecordName": 48,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 13,
@@ -572,11 +572,11 @@
     "Season": "Spring",
     "Luna": "Waning Gibbous",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 49,
+    "RecordName": 49,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 14,
@@ -584,11 +584,11 @@
     "Season": "Spring",
     "Luna": "Waning Gibbous Fading",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 50,
+    "RecordName": 50,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 15,
@@ -596,11 +596,11 @@
     "Season": "Spring",
     "Luna": "Last Quarter",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 51,
+    "RecordName": 51,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 16,
@@ -608,11 +608,11 @@
     "Season": "Spring",
     "Luna": "Last Quarter",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 52,
+    "RecordName": 52,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 17,
@@ -620,11 +620,11 @@
     "Season": "Spring",
     "Luna": "Last Quarter Fading",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 53,
+    "RecordName": 53,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 18,
@@ -632,11 +632,11 @@
     "Season": "Spring",
     "Luna": "Last Quarter Fading",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 54,
+    "RecordName": 54,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 19,
@@ -644,11 +644,11 @@
     "Season": "Spring",
     "Luna": "Waning Crescent",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 55,
+    "RecordName": 55,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 20,
@@ -656,11 +656,11 @@
     "Season": "Spring",
     "Luna": "Waning Crescent",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 56,
+    "RecordName": 56,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 21,
@@ -668,11 +668,11 @@
     "Season": "Spring",
     "Luna": "Waning Crescent Fading",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 57,
+    "RecordName": 57,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 22,
@@ -680,11 +680,11 @@
     "Season": "Spring",
     "Luna": "New Moon",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 58,
+    "RecordName": 58,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 23,
@@ -692,11 +692,11 @@
     "Season": "Spring",
     "Luna": "New Moon",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 59,
+    "RecordName": 59,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 24,
@@ -704,11 +704,11 @@
     "Season": "Spring",
     "Luna": "New Moon Fading",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 60,
+    "RecordName": 60,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 25,
@@ -716,11 +716,11 @@
     "Season": "Spring",
     "Luna": "New Moon Fading",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 61,
+    "RecordName": 61,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 26,
@@ -728,11 +728,11 @@
     "Season": "Spring",
     "Luna": "Waxing Crescent",
     "Celene": "Waxing Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 62,
+    "RecordName": 62,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 27,
@@ -740,11 +740,11 @@
     "Season": "Spring",
     "Luna": "Waxing Crescent",
     "Celene": "Waxing Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 63,
+    "RecordName": 63,
     "MonthNumber": 3,
     "Month": "Readying",
     "Day": 28,
@@ -752,11 +752,11 @@
     "Season": "Spring",
     "Luna": "Waxing Crescent Fading",
     "Celene": "Waxing Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 64,
+    "RecordName": 64,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 1,
@@ -764,11 +764,11 @@
     "Season": "Spring",
     "Luna": "First Quarter",
     "Celene": "Waxing Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 65,
+    "RecordName": 65,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 2,
@@ -776,11 +776,11 @@
     "Season": "Spring",
     "Luna": "First Quarter",
     "Celene": "Waxing Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 66,
+    "RecordName": 66,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 3,
@@ -788,11 +788,11 @@
     "Season": "Spring",
     "Luna": "First Quarter Fading",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 67,
+    "RecordName": 67,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 4,
@@ -800,11 +800,11 @@
     "Season": "Spring",
     "Luna": "First Quarter Fading",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 68,
+    "RecordName": 68,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 5,
@@ -812,11 +812,11 @@
     "Season": "Spring",
     "Luna": "Waxing Gibbous",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 69,
+    "RecordName": 69,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 6,
@@ -824,11 +824,11 @@
     "Season": "Spring",
     "Luna": "Waxing Gibbous",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 70,
+    "RecordName": 70,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 7,
@@ -836,11 +836,11 @@
     "Season": "Spring",
     "Luna": "Waxing Gibbous Fading",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 71,
+    "RecordName": 71,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 8,
@@ -848,11 +848,11 @@
     "Season": "Spring",
     "Luna": "Full Moon",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 72,
+    "RecordName": 72,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 9,
@@ -860,11 +860,11 @@
     "Season": "Spring",
     "Luna": "Full Moon",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 73,
+    "RecordName": 73,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 10,
@@ -872,11 +872,11 @@
     "Season": "Spring",
     "Luna": "Full Moon Fading",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 74,
+    "RecordName": 74,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 11,
@@ -884,11 +884,11 @@
     "Season": "Spring",
     "Luna": "Full Moon Fading",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 75,
+    "RecordName": 75,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 12,
@@ -896,11 +896,11 @@
     "Season": "Spring",
     "Luna": "Waning Gibbous",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 76,
+    "RecordName": 76,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 13,
@@ -908,11 +908,11 @@
     "Season": "Spring",
     "Luna": "Waning Gibbous",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 77,
+    "RecordName": 77,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 14,
@@ -920,11 +920,11 @@
     "Season": "Spring",
     "Luna": "Waning Gibbous Fading",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 78,
+    "RecordName": 78,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 15,
@@ -932,11 +932,11 @@
     "Season": "Spring",
     "Luna": "Last Quarter",
     "Celene": "Waxing Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 79,
+    "RecordName": 79,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 16,
@@ -944,11 +944,11 @@
     "Season": "Spring",
     "Luna": "Last Quarter",
     "Celene": "Waxing Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 80,
+    "RecordName": 80,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 17,
@@ -956,11 +956,11 @@
     "Season": "Spring",
     "Luna": "Last Quarter Fading",
     "Celene": "Waxing Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 81,
+    "RecordName": 81,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 18,
@@ -968,11 +968,11 @@
     "Season": "Spring",
     "Luna": "Last Quarter Fading",
     "Celene": "Waxing Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 82,
+    "RecordName": 82,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 19,
@@ -980,11 +980,11 @@
     "Season": "Spring",
     "Luna": "Waning Crescent",
     "Celene": "Waxing Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 83,
+    "RecordName": 83,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 20,
@@ -992,11 +992,11 @@
     "Season": "Spring",
     "Luna": "Waning Crescent",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 84,
+    "RecordName": 84,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 21,
@@ -1004,11 +1004,11 @@
     "Season": "Spring",
     "Luna": "Waning Crescent Fading",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 85,
+    "RecordName": 85,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 22,
@@ -1016,11 +1016,11 @@
     "Season": "Spring",
     "Luna": "New Moon",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 86,
+    "RecordName": 86,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 23,
@@ -1028,11 +1028,11 @@
     "Season": "Spring",
     "Luna": "New Moon",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 87,
+    "RecordName": 87,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 24,
@@ -1040,11 +1040,11 @@
     "Season": "Spring",
     "Luna": "New Moon Fading",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 88,
+    "RecordName": 88,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 25,
@@ -1052,11 +1052,11 @@
     "Season": "Spring",
     "Luna": "New Moon Fading",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 89,
+    "RecordName": 89,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 26,
@@ -1064,11 +1064,11 @@
     "Season": "Spring",
     "Luna": "Waxing Crescent",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 90,
+    "RecordName": 90,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 27,
@@ -1076,11 +1076,11 @@
     "Season": "Spring",
     "Luna": "Waxing Crescent",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 91,
+    "RecordName": 91,
     "MonthNumber": 4,
     "Month": "Coldeven",
     "Day": 28,
@@ -1088,11 +1088,11 @@
     "Season": "Spring",
     "Luna": "Waxing Crescent Fading",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 92,
+    "RecordName": 92,
     "MonthNumber": 5,
     "Month": "Growfest",
     "Day": 1,
@@ -1100,11 +1100,11 @@
     "Season": "This seven-day period marks the transition from spring to summer.",
     "Luna": "First Quarter",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 93,
+    "RecordName": 93,
     "MonthNumber": 5,
     "Month": "Growfest",
     "Day": 2,
@@ -1112,11 +1112,11 @@
     "Season": "This seven-day period marks the transition from spring to summer.",
     "Luna": "First Quarter",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 94,
+    "RecordName": 94,
     "MonthNumber": 5,
     "Month": "Growfest",
     "Day": 3,
@@ -1124,11 +1124,11 @@
     "Season": "This seven-day period marks the transition from spring to summer.",
     "Luna": "First Quarter Fading",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 95,
+    "RecordName": 95,
     "MonthNumber": 5,
     "Month": "Growfest",
     "Day": 4,
@@ -1140,7 +1140,7 @@
     "Special": ""
   },
   {
-    "RecordNumber": 96,
+    "RecordName": 96,
     "MonthNumber": 5,
     "Month": "Growfest",
     "Day": 5,
@@ -1148,11 +1148,11 @@
     "Season": "This seven-day period marks the transition from spring to summer.",
     "Luna": "Waxing Gibbous",
     "Celene": "Full Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 97,
+    "RecordName": 97,
     "MonthNumber": 5,
     "Month": "Growfest",
     "Day": 6,
@@ -1160,11 +1160,11 @@
     "Season": "This seven-day period marks the transition from spring to summer.",
     "Luna": "Waxing Gibbous",
     "Celene": "Full Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 98,
+    "RecordName": 98,
     "MonthNumber": 5,
     "Month": "Growfest",
     "Day": 7,
@@ -1172,11 +1172,11 @@
     "Season": "This seven-day period marks the transition from spring to summer.",
     "Luna": "Waxing Gibbous Fading",
     "Celene": "Full Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 99,
+    "RecordName": 99,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 1,
@@ -1184,11 +1184,11 @@
     "Season": "Low Summer",
     "Luna": "Full Moon",
     "Celene": "Full Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 100,
+    "RecordName": 100,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 2,
@@ -1196,11 +1196,11 @@
     "Season": "Low Summer",
     "Luna": "Full Moon",
     "Celene": "Full Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 101,
+    "RecordName": 101,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 3,
@@ -1208,11 +1208,11 @@
     "Season": "Low Summer",
     "Luna": "Full Moon Fading",
     "Celene": "Waning Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 102,
+    "RecordName": 102,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 4,
@@ -1220,11 +1220,11 @@
     "Season": "Low Summer",
     "Luna": "Full Moon Fading",
     "Celene": "Waning Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 103,
+    "RecordName": 103,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 5,
@@ -1232,11 +1232,11 @@
     "Season": "Low Summer",
     "Luna": "Waning Gibbous",
     "Celene": "Waning Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 104,
+    "RecordName": 104,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 6,
@@ -1244,11 +1244,11 @@
     "Season": "Low Summer",
     "Luna": "Waning Gibbous",
     "Celene": "Waning Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 105,
+    "RecordName": 105,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 7,
@@ -1256,11 +1256,11 @@
     "Season": "Low Summer",
     "Luna": "Waning Gibbous Fading",
     "Celene": "Waning Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 106,
+    "RecordName": 106,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 8,
@@ -1268,11 +1268,11 @@
     "Season": "Low Summer",
     "Luna": "Last Quarter",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 107,
+    "RecordName": 107,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 9,
@@ -1280,11 +1280,11 @@
     "Season": "Low Summer",
     "Luna": "Last Quarter",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 108,
+    "RecordName": 108,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 10,
@@ -1292,11 +1292,11 @@
     "Season": "Low Summer",
     "Luna": "Last Quarter Fading",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 109,
+    "RecordName": 109,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 11,
@@ -1304,11 +1304,11 @@
     "Season": "Low Summer",
     "Luna": "Last Quarter Fading",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 110,
+    "RecordName": 110,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 12,
@@ -1316,11 +1316,11 @@
     "Season": "Low Summer",
     "Luna": "Waning Crescent",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 111,
+    "RecordName": 111,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 13,
@@ -1328,11 +1328,11 @@
     "Season": "Low Summer",
     "Luna": "Waning Crescent",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 112,
+    "RecordName": 112,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 14,
@@ -1340,11 +1340,11 @@
     "Season": "Low Summer",
     "Luna": "Waning Crescent Fading",
     "Celene": "Last Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 113,
+    "RecordName": 113,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 15,
@@ -1352,11 +1352,11 @@
     "Season": "Low Summer",
     "Luna": "New Moon",
     "Celene": "Last Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 114,
+    "RecordName": 114,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 16,
@@ -1364,11 +1364,11 @@
     "Season": "Low Summer",
     "Luna": "New Moon",
     "Celene": "Last Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 115,
+    "RecordName": 115,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 17,
@@ -1376,11 +1376,11 @@
     "Season": "Low Summer",
     "Luna": "New Moon Fading",
     "Celene": "Last Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 116,
+    "RecordName": 116,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 18,
@@ -1388,11 +1388,11 @@
     "Season": "Low Summer",
     "Luna": "New Moon Fading",
     "Celene": "Last Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 117,
+    "RecordName": 117,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 19,
@@ -1400,11 +1400,11 @@
     "Season": "Low Summer",
     "Luna": "Waxing Crescent",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 118,
+    "RecordName": 118,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 20,
@@ -1412,11 +1412,11 @@
     "Season": "Low Summer",
     "Luna": "Waxing Crescent",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 119,
+    "RecordName": 119,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 21,
@@ -1424,11 +1424,11 @@
     "Season": "Low Summer",
     "Luna": "Waxing Crescent Fading",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 120,
+    "RecordName": 120,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 22,
@@ -1436,11 +1436,11 @@
     "Season": "Low Summer",
     "Luna": "First Quarter",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 121,
+    "RecordName": 121,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 23,
@@ -1448,11 +1448,11 @@
     "Season": "Low Summer",
     "Luna": "First Quarter",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 122,
+    "RecordName": 122,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 24,
@@ -1460,11 +1460,11 @@
     "Season": "Low Summer",
     "Luna": "First Quarter Fading",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 123,
+    "RecordName": 123,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 25,
@@ -1472,11 +1472,11 @@
     "Season": "Low Summer",
     "Luna": "First Quarter Fading",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 124,
+    "RecordName": 124,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 26,
@@ -1484,11 +1484,11 @@
     "Season": "Low Summer",
     "Luna": "Waxing Gibbous",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 125,
+    "RecordName": 125,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 27,
@@ -1496,11 +1496,11 @@
     "Season": "Low Summer",
     "Luna": "Waxing Gibbous",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 126,
+    "RecordName": 126,
     "MonthNumber": 6,
     "Month": "Planting",
     "Day": 28,
@@ -1508,11 +1508,11 @@
     "Season": "Low Summer",
     "Luna": "Waxing Gibbous Fading",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 127,
+    "RecordName": 127,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 1,
@@ -1520,11 +1520,11 @@
     "Season": "Low Summer",
     "Luna": "Full Moon",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 128,
+    "RecordName": 128,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 2,
@@ -1532,11 +1532,11 @@
     "Season": "Low Summer",
     "Luna": "Full Moon",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 129,
+    "RecordName": 129,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 3,
@@ -1544,11 +1544,11 @@
     "Season": "Low Summer",
     "Luna": "Full Moon Fading",
     "Celene": "Waning Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 130,
+    "RecordName": 130,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 4,
@@ -1556,11 +1556,11 @@
     "Season": "Low Summer",
     "Luna": "Full Moon Fading",
     "Celene": "Waning Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 131,
+    "RecordName": 131,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 5,
@@ -1568,11 +1568,11 @@
     "Season": "Low Summer",
     "Luna": "Waning Gibbous",
     "Celene": "Waning Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 132,
+    "RecordName": 132,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 6,
@@ -1580,11 +1580,11 @@
     "Season": "Low Summer",
     "Luna": "Waning Gibbous",
     "Celene": "Waning Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 133,
+    "RecordName": 133,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 7,
@@ -1592,11 +1592,11 @@
     "Season": "Low Summer",
     "Luna": "Waning Gibbous Fading",
     "Celene": "Waning Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 134,
+    "RecordName": 134,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 8,
@@ -1604,11 +1604,11 @@
     "Season": "Low Summer",
     "Luna": "Last Quarter",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 135,
+    "RecordName": 135,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 9,
@@ -1616,11 +1616,11 @@
     "Season": "Low Summer",
     "Luna": "Last Quarter",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 136,
+    "RecordName": 136,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 10,
@@ -1628,11 +1628,11 @@
     "Season": "Low Summer",
     "Luna": "Last Quarter Fading",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 137,
+    "RecordName": 137,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 11,
@@ -1640,11 +1640,11 @@
     "Season": "Low Summer",
     "Luna": "Last Quarter Fading",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 138,
+    "RecordName": 138,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 12,
@@ -1652,11 +1652,11 @@
     "Season": "Low Summer",
     "Luna": "Waning Crescent",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 139,
+    "RecordName": 139,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 13,
@@ -1664,11 +1664,11 @@
     "Season": "Low Summer",
     "Luna": "Waning Crescent",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 140,
+    "RecordName": 140,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 14,
@@ -1676,11 +1676,11 @@
     "Season": "Low Summer",
     "Luna": "Waning Crescent Fading",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 141,
+    "RecordName": 141,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 15,
@@ -1688,11 +1688,11 @@
     "Season": "Low Summer",
     "Luna": "New Moon",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 142,
+    "RecordName": 142,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 16,
@@ -1700,11 +1700,11 @@
     "Season": "Low Summer",
     "Luna": "New Moon",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 143,
+    "RecordName": 143,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 17,
@@ -1712,11 +1712,11 @@
     "Season": "Low Summer",
     "Luna": "New Moon Fading",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 144,
+    "RecordName": 144,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 18,
@@ -1724,11 +1724,11 @@
     "Season": "Low Summer",
     "Luna": "New Moon Fading",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 145,
+    "RecordName": 145,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 19,
@@ -1736,11 +1736,11 @@
     "Season": "Low Summer",
     "Luna": "Waxing Crescent",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 146,
+    "RecordName": 146,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 20,
@@ -1748,11 +1748,11 @@
     "Season": "Low Summer",
     "Luna": "Waxing Crescent",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 147,
+    "RecordName": 147,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 21,
@@ -1760,11 +1760,11 @@
     "Season": "Low Summer",
     "Luna": "Waxing Crescent Fading",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 148,
+    "RecordName": 148,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 22,
@@ -1772,11 +1772,11 @@
     "Season": "Low Summer",
     "Luna": "First Quarter",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 149,
+    "RecordName": 149,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 23,
@@ -1784,11 +1784,11 @@
     "Season": "Low Summer",
     "Luna": "First Quarter",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 150,
+    "RecordName": 150,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 24,
@@ -1796,11 +1796,11 @@
     "Season": "Low Summer",
     "Luna": "First Quarter Fading",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 151,
+    "RecordName": 151,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 25,
@@ -1808,11 +1808,11 @@
     "Season": "Low Summer",
     "Luna": "First Quarter Fading",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 152,
+    "RecordName": 152,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 26,
@@ -1820,11 +1820,11 @@
     "Season": "Low Summer",
     "Luna": "Waxing Gibbous",
     "Celene": "Waxing Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 153,
+    "RecordName": 153,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 27,
@@ -1832,11 +1832,11 @@
     "Season": "Low Summer",
     "Luna": "Waxing Gibbous",
     "Celene": "Waxing Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 154,
+    "RecordName": 154,
     "MonthNumber": 7,
     "Month": "Flocktime",
     "Day": 28,
@@ -1844,11 +1844,11 @@
     "Season": "Low Summer",
     "Luna": "Waxing Gibbous Fading",
     "Celene": "Waxing Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 155,
+    "RecordName": 155,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 1,
@@ -1856,11 +1856,11 @@
     "Season": "Low Summer",
     "Luna": "Full Moon",
     "Celene": "Waxing Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 156,
+    "RecordName": 156,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 2,
@@ -1868,11 +1868,11 @@
     "Season": "Low Summer",
     "Luna": "Full Moon",
     "Celene": "Waxing Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 157,
+    "RecordName": 157,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 3,
@@ -1880,11 +1880,11 @@
     "Season": "Low Summer",
     "Luna": "Full Moon Fading",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 158,
+    "RecordName": 158,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 4,
@@ -1892,11 +1892,11 @@
     "Season": "Low Summer",
     "Luna": "Full Moon Fading",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 159,
+    "RecordName": 159,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 5,
@@ -1904,11 +1904,11 @@
     "Season": "Low Summer",
     "Luna": "Waning Gibbous",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 160,
+    "RecordName": 160,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 6,
@@ -1916,11 +1916,11 @@
     "Season": "Low Summer",
     "Luna": "Waning Gibbous",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 161,
+    "RecordName": 161,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 7,
@@ -1928,11 +1928,11 @@
     "Season": "Low Summer",
     "Luna": "Waning Gibbous Fading",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 162,
+    "RecordName": 162,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 8,
@@ -1940,11 +1940,11 @@
     "Season": "Low Summer",
     "Luna": "Last Quarter",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 163,
+    "RecordName": 163,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 9,
@@ -1952,11 +1952,11 @@
     "Season": "Low Summer",
     "Luna": "Last Quarter",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 164,
+    "RecordName": 164,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 10,
@@ -1964,11 +1964,11 @@
     "Season": "Low Summer",
     "Luna": "Last Quarter Fading",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 165,
+    "RecordName": 165,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 11,
@@ -1976,11 +1976,11 @@
     "Season": "Low Summer",
     "Luna": "Last Quarter Fading",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 166,
+    "RecordName": 166,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 12,
@@ -1988,11 +1988,11 @@
     "Season": "Low Summer",
     "Luna": "Waning Crescent",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 167,
+    "RecordName": 167,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 13,
@@ -2000,11 +2000,11 @@
     "Season": "Low Summer",
     "Luna": "Waning Crescent",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 168,
+    "RecordName": 168,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 14,
@@ -2012,11 +2012,11 @@
     "Season": "Low Summer",
     "Luna": "Waning Crescent Fading",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 169,
+    "RecordName": 169,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 15,
@@ -2024,11 +2024,11 @@
     "Season": "Low Summer",
     "Luna": "New Moon",
     "Celene": "Waxing Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 170,
+    "RecordName": 170,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 16,
@@ -2036,11 +2036,11 @@
     "Season": "Low Summer",
     "Luna": "New Moon",
     "Celene": "Waxing Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 171,
+    "RecordName": 171,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 17,
@@ -2048,11 +2048,11 @@
     "Season": "Low Summer",
     "Luna": "New Moon Fading",
     "Celene": "Waxing Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 172,
+    "RecordName": 172,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 18,
@@ -2060,11 +2060,11 @@
     "Season": "Low Summer",
     "Luna": "New Moon Fading",
     "Celene": "Waxing Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 173,
+    "RecordName": 173,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 19,
@@ -2072,11 +2072,11 @@
     "Season": "Low Summer",
     "Luna": "Waxing Crescent",
     "Celene": "Waxing Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 174,
+    "RecordName": 174,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 20,
@@ -2084,11 +2084,11 @@
     "Season": "Low Summer",
     "Luna": "Waxing Crescent",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 175,
+    "RecordName": 175,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 21,
@@ -2096,11 +2096,11 @@
     "Season": "Low Summer",
     "Luna": "Waxing Crescent Fading",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 176,
+    "RecordName": 176,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 22,
@@ -2108,11 +2108,11 @@
     "Season": "Low Summer",
     "Luna": "First Quarter",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 177,
+    "RecordName": 177,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 23,
@@ -2120,11 +2120,11 @@
     "Season": "Low Summer",
     "Luna": "First Quarter",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 178,
+    "RecordName": 178,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 24,
@@ -2132,11 +2132,11 @@
     "Season": "Low Summer",
     "Luna": "First Quarter Fading",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 179,
+    "RecordName": 179,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 25,
@@ -2144,11 +2144,11 @@
     "Season": "Low Summer",
     "Luna": "First Quarter Fading",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 180,
+    "RecordName": 180,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 26,
@@ -2156,11 +2156,11 @@
     "Season": "Low Summer",
     "Luna": "Waxing Gibbous",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 181,
+    "RecordName": 181,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 27,
@@ -2168,11 +2168,11 @@
     "Season": "Low Summer",
     "Luna": "Waxing Gibbous",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 182,
+    "RecordName": 182,
     "MonthNumber": 8,
     "Month": "Wealsun",
     "Day": 28,
@@ -2180,11 +2180,11 @@
     "Season": "Low Summer",
     "Luna": "Waxing Gibbous Fading",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 183,
+    "RecordName": 183,
     "MonthNumber": 9,
     "Month": "Richfest",
     "Day": 1,
@@ -2192,11 +2192,11 @@
     "Season": "Mid Summer",
     "Luna": "Full Moon",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 184,
+    "RecordName": 184,
     "MonthNumber": 9,
     "Month": "Richfest",
     "Day": 2,
@@ -2204,11 +2204,11 @@
     "Season": "Mid Summer",
     "Luna": "Full Moon",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 185,
+    "RecordName": 185,
     "MonthNumber": 9,
     "Month": "Richfest",
     "Day": 3,
@@ -2216,11 +2216,11 @@
     "Season": "Mid Summer",
     "Luna": "Full Moon Fading",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 186,
+    "RecordName": 186,
     "MonthNumber": 9,
     "Month": "Richfest",
     "Day": 4,
@@ -2232,7 +2232,7 @@
     "Special": ""
   },
   {
-    "RecordNumber": 187,
+    "RecordName": 187,
     "MonthNumber": 9,
     "Month": "Richfest",
     "Day": 5,
@@ -2240,11 +2240,11 @@
     "Season": "Mid Summer",
     "Luna": "Waning Gibbous",
     "Celene": "Full Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 188,
+    "RecordName": 188,
     "MonthNumber": 9,
     "Month": "Richfest",
     "Day": 6,
@@ -2252,11 +2252,11 @@
     "Season": "Mid Summer",
     "Luna": "Waning Gibbous",
     "Celene": "Full Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 189,
+    "RecordName": 189,
     "MonthNumber": 9,
     "Month": "Richfest",
     "Day": 7,
@@ -2264,11 +2264,11 @@
     "Season": "Mid Summer",
     "Luna": "Waning Gibbous Fading",
     "Celene": "Full Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 190,
+    "RecordName": 190,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 1,
@@ -2276,11 +2276,11 @@
     "Season": "High Summer",
     "Luna": "Last Quarter",
     "Celene": "Full Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 191,
+    "RecordName": 191,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 2,
@@ -2288,11 +2288,11 @@
     "Season": "High Summer",
     "Luna": "Last Quarter",
     "Celene": "Full Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 192,
+    "RecordName": 192,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 3,
@@ -2300,11 +2300,11 @@
     "Season": "High Summer",
     "Luna": "Last Quarter Fading",
     "Celene": "Waning Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 193,
+    "RecordName": 193,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 4,
@@ -2312,11 +2312,11 @@
     "Season": "High Summer",
     "Luna": "Last Quarter Fading",
     "Celene": "Waning Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 194,
+    "RecordName": 194,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 5,
@@ -2324,11 +2324,11 @@
     "Season": "High Summer",
     "Luna": "Waning Crescent",
     "Celene": "Waning Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 195,
+    "RecordName": 195,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 6,
@@ -2336,11 +2336,11 @@
     "Season": "High Summer",
     "Luna": "Waning Crescent",
     "Celene": "Waning Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 196,
+    "RecordName": 196,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 7,
@@ -2348,11 +2348,11 @@
     "Season": "High Summer",
     "Luna": "Waning Crescent Fading",
     "Celene": "Waning Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 197,
+    "RecordName": 197,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 8,
@@ -2360,11 +2360,11 @@
     "Season": "High Summer",
     "Luna": "New Moon",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 198,
+    "RecordName": 198,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 9,
@@ -2372,11 +2372,11 @@
     "Season": "High Summer",
     "Luna": "New Moon",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 199,
+    "RecordName": 199,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 10,
@@ -2384,11 +2384,11 @@
     "Season": "High Summer",
     "Luna": "New Moon Fading",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 200,
+    "RecordName": 200,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 11,
@@ -2396,11 +2396,11 @@
     "Season": "High Summer",
     "Luna": "New Moon Fading",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 201,
+    "RecordName": 201,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 12,
@@ -2408,11 +2408,11 @@
     "Season": "High Summer",
     "Luna": "Waxing Crescent",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 202,
+    "RecordName": 202,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 13,
@@ -2420,11 +2420,11 @@
     "Season": "High Summer",
     "Luna": "Waxing Crescent",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 203,
+    "RecordName": 203,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 14,
@@ -2432,11 +2432,11 @@
     "Season": "High Summer",
     "Luna": "Waxing Crescent Fading",
     "Celene": "Last Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 204,
+    "RecordName": 204,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 15,
@@ -2444,11 +2444,11 @@
     "Season": "High Summer",
     "Luna": "First Quarter",
     "Celene": "Last Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 205,
+    "RecordName": 205,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 16,
@@ -2456,11 +2456,11 @@
     "Season": "High Summer",
     "Luna": "First Quarter",
     "Celene": "Last Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 206,
+    "RecordName": 206,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 17,
@@ -2468,11 +2468,11 @@
     "Season": "High Summer",
     "Luna": "First Quarter Fading",
     "Celene": "Last Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 207,
+    "RecordName": 207,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 18,
@@ -2480,11 +2480,11 @@
     "Season": "High Summer",
     "Luna": "First Quarter Fading",
     "Celene": "Last Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 208,
+    "RecordName": 208,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 19,
@@ -2492,11 +2492,11 @@
     "Season": "High Summer",
     "Luna": "Waxing Gibbous",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 209,
+    "RecordName": 209,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 20,
@@ -2504,11 +2504,11 @@
     "Season": "High Summer",
     "Luna": "Waxing Gibbous",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 210,
+    "RecordName": 210,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 21,
@@ -2516,11 +2516,11 @@
     "Season": "High Summer",
     "Luna": "Waxing Gibbous Fading",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 211,
+    "RecordName": 211,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 22,
@@ -2528,11 +2528,11 @@
     "Season": "High Summer",
     "Luna": "Full Moon",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 212,
+    "RecordName": 212,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 23,
@@ -2540,11 +2540,11 @@
     "Season": "High Summer",
     "Luna": "Full Moon",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 213,
+    "RecordName": 213,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 24,
@@ -2552,11 +2552,11 @@
     "Season": "High Summer",
     "Luna": "Full Moon Fading",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 214,
+    "RecordName": 214,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 25,
@@ -2564,11 +2564,11 @@
     "Season": "High Summer",
     "Luna": "Full Moon Fading",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 215,
+    "RecordName": 215,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 26,
@@ -2576,11 +2576,11 @@
     "Season": "High Summer",
     "Luna": "Waning Gibbous",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 216,
+    "RecordName": 216,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 27,
@@ -2588,11 +2588,11 @@
     "Season": "High Summer",
     "Luna": "Waning Gibbous",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 217,
+    "RecordName": 217,
     "MonthNumber": 10,
     "Month": "Reaping",
     "Day": 28,
@@ -2600,11 +2600,11 @@
     "Season": "High Summer",
     "Luna": "Waning Gibbous Fading",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 218,
+    "RecordName": 218,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 1,
@@ -2612,11 +2612,11 @@
     "Season": "High Summer",
     "Luna": "Last Quarter",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 219,
+    "RecordName": 219,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 2,
@@ -2624,11 +2624,11 @@
     "Season": "High Summer",
     "Luna": "Last Quarter",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 220,
+    "RecordName": 220,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 3,
@@ -2636,11 +2636,11 @@
     "Season": "High Summer",
     "Luna": "Last Quarter Fading",
     "Celene": "Waning Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 221,
+    "RecordName": 221,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 4,
@@ -2648,11 +2648,11 @@
     "Season": "High Summer",
     "Luna": "Last Quarter Fading",
     "Celene": "Waning Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 222,
+    "RecordName": 222,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 5,
@@ -2660,11 +2660,11 @@
     "Season": "High Summer",
     "Luna": "Waning Crescent",
     "Celene": "Waning Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 223,
+    "RecordName": 223,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 6,
@@ -2672,11 +2672,11 @@
     "Season": "High Summer",
     "Luna": "Waning Crescent",
     "Celene": "Waning Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 224,
+    "RecordName": 224,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 7,
@@ -2684,11 +2684,11 @@
     "Season": "High Summer",
     "Luna": "Waning Crescent Fading",
     "Celene": "Waning Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 225,
+    "RecordName": 225,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 8,
@@ -2696,11 +2696,11 @@
     "Season": "High Summer",
     "Luna": "New Moon",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 226,
+    "RecordName": 226,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 9,
@@ -2708,11 +2708,11 @@
     "Season": "High Summer",
     "Luna": "New Moon",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 227,
+    "RecordName": 227,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 10,
@@ -2720,11 +2720,11 @@
     "Season": "High Summer",
     "Luna": "New Moon Fading",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 228,
+    "RecordName": 228,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 11,
@@ -2732,11 +2732,11 @@
     "Season": "High Summer",
     "Luna": "New Moon Fading",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 229,
+    "RecordName": 229,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 12,
@@ -2744,11 +2744,11 @@
     "Season": "High Summer",
     "Luna": "Waxing Crescent",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 230,
+    "RecordName": 230,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 13,
@@ -2756,11 +2756,11 @@
     "Season": "High Summer",
     "Luna": "Waxing Crescent",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 231,
+    "RecordName": 231,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 14,
@@ -2768,11 +2768,11 @@
     "Season": "High Summer",
     "Luna": "Waxing Crescent Fading",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 232,
+    "RecordName": 232,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 15,
@@ -2780,11 +2780,11 @@
     "Season": "High Summer",
     "Luna": "First Quarter",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 233,
+    "RecordName": 233,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 16,
@@ -2792,11 +2792,11 @@
     "Season": "High Summer",
     "Luna": "First Quarter",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 234,
+    "RecordName": 234,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 17,
@@ -2804,11 +2804,11 @@
     "Season": "High Summer",
     "Luna": "First Quarter Fading",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 235,
+    "RecordName": 235,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 18,
@@ -2816,11 +2816,11 @@
     "Season": "High Summer",
     "Luna": "First Quarter Fading",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 236,
+    "RecordName": 236,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 19,
@@ -2828,11 +2828,11 @@
     "Season": "High Summer",
     "Luna": "Waxing Gibbous",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 237,
+    "RecordName": 237,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 20,
@@ -2840,11 +2840,11 @@
     "Season": "High Summer",
     "Luna": "Waxing Gibbous",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 238,
+    "RecordName": 238,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 21,
@@ -2852,11 +2852,11 @@
     "Season": "High Summer",
     "Luna": "Waxing Gibbous Fading",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 239,
+    "RecordName": 239,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 22,
@@ -2864,11 +2864,11 @@
     "Season": "High Summer",
     "Luna": "Full Moon",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 240,
+    "RecordName": 240,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 23,
@@ -2876,11 +2876,11 @@
     "Season": "High Summer",
     "Luna": "Full Moon",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 241,
+    "RecordName": 241,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 24,
@@ -2888,11 +2888,11 @@
     "Season": "High Summer",
     "Luna": "Full Moon Fading",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 242,
+    "RecordName": 242,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 25,
@@ -2900,11 +2900,11 @@
     "Season": "High Summer",
     "Luna": "Full Moon Fading",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 243,
+    "RecordName": 243,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 26,
@@ -2912,11 +2912,11 @@
     "Season": "High Summer",
     "Luna": "Waning Gibbous",
     "Celene": "Waxing Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 244,
+    "RecordName": 244,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 27,
@@ -2924,11 +2924,11 @@
     "Season": "High Summer",
     "Luna": "Waning Gibbous",
     "Celene": "Waxing Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 245,
+    "RecordName": 245,
     "MonthNumber": 11,
     "Month": "Goodmonth",
     "Day": 28,
@@ -2936,11 +2936,11 @@
     "Season": "High Summer",
     "Luna": "Waning Gibbous Fading",
     "Celene": "Waxing Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 246,
+    "RecordName": 246,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 1,
@@ -2948,11 +2948,11 @@
     "Season": "High Summer",
     "Luna": "Last Quarter",
     "Celene": "Waxing Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 247,
+    "RecordName": 247,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 2,
@@ -2960,11 +2960,11 @@
     "Season": "High Summer",
     "Luna": "Last Quarter",
     "Celene": "Waxing Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 248,
+    "RecordName": 248,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 3,
@@ -2972,11 +2972,11 @@
     "Season": "High Summer",
     "Luna": "Last Quarter Fading",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 249,
+    "RecordName": 249,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 4,
@@ -2984,11 +2984,11 @@
     "Season": "High Summer",
     "Luna": "Last Quarter Fading",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 250,
+    "RecordName": 250,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 5,
@@ -2996,11 +2996,11 @@
     "Season": "High Summer",
     "Luna": "Waning Crescent",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 251,
+    "RecordName": 251,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 6,
@@ -3008,11 +3008,11 @@
     "Season": "High Summer",
     "Luna": "Waning Crescent",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 252,
+    "RecordName": 252,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 7,
@@ -3020,11 +3020,11 @@
     "Season": "High Summer",
     "Luna": "Waning Crescent Fading",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 253,
+    "RecordName": 253,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 8,
@@ -3032,11 +3032,11 @@
     "Season": "High Summer",
     "Luna": "New Moon",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 254,
+    "RecordName": 254,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 9,
@@ -3044,11 +3044,11 @@
     "Season": "High Summer",
     "Luna": "New Moon",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 255,
+    "RecordName": 255,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 10,
@@ -3056,11 +3056,11 @@
     "Season": "High Summer",
     "Luna": "New Moon Fading",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 256,
+    "RecordName": 256,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 11,
@@ -3068,11 +3068,11 @@
     "Season": "High Summer",
     "Luna": "New Moon Fading",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 257,
+    "RecordName": 257,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 12,
@@ -3080,11 +3080,11 @@
     "Season": "High Summer",
     "Luna": "Waxing Crescent",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 258,
+    "RecordName": 258,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 13,
@@ -3092,11 +3092,11 @@
     "Season": "High Summer",
     "Luna": "Waxing Crescent",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 259,
+    "RecordName": 259,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 14,
@@ -3104,11 +3104,11 @@
     "Season": "High Summer",
     "Luna": "Waxing Crescent Fading",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 260,
+    "RecordName": 260,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 15,
@@ -3116,11 +3116,11 @@
     "Season": "High Summer",
     "Luna": "First Quarter",
     "Celene": "Waxing Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 261,
+    "RecordName": 261,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 16,
@@ -3128,11 +3128,11 @@
     "Season": "High Summer",
     "Luna": "First Quarter",
     "Celene": "Waxing Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 262,
+    "RecordName": 262,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 17,
@@ -3140,11 +3140,11 @@
     "Season": "High Summer",
     "Luna": "First Quarter Fading",
     "Celene": "Waxing Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 263,
+    "RecordName": 263,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 18,
@@ -3152,11 +3152,11 @@
     "Season": "High Summer",
     "Luna": "First Quarter Fading",
     "Celene": "Waxing Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 264,
+    "RecordName": 264,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 19,
@@ -3164,11 +3164,11 @@
     "Season": "High Summer",
     "Luna": "Waxing Gibbous",
     "Celene": "Waxing Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 265,
+    "RecordName": 265,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 20,
@@ -3176,11 +3176,11 @@
     "Season": "High Summer",
     "Luna": "Waxing Gibbous",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 266,
+    "RecordName": 266,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 21,
@@ -3188,11 +3188,11 @@
     "Season": "High Summer",
     "Luna": "Waxing Gibbous Fading",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 267,
+    "RecordName": 267,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 22,
@@ -3200,11 +3200,11 @@
     "Season": "High Summer",
     "Luna": "Full Moon",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 268,
+    "RecordName": 268,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 23,
@@ -3212,11 +3212,11 @@
     "Season": "High Summer",
     "Luna": "Full Moon",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 269,
+    "RecordName": 269,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 24,
@@ -3224,11 +3224,11 @@
     "Season": "High Summer",
     "Luna": "Full Moon Fading",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 270,
+    "RecordName": 270,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 25,
@@ -3236,11 +3236,11 @@
     "Season": "High Summer",
     "Luna": "Full Moon Fading",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 271,
+    "RecordName": 271,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 26,
@@ -3248,11 +3248,11 @@
     "Season": "High Summer",
     "Luna": "Waning Gibbous",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 272,
+    "RecordName": 272,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 27,
@@ -3260,11 +3260,11 @@
     "Season": "High Summer",
     "Luna": "Waning Gibbous",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 273,
+    "RecordName": 273,
     "MonthNumber": 12,
     "Month": "Harvester",
     "Day": 28,
@@ -3272,11 +3272,11 @@
     "Season": "High Summer",
     "Luna": "Waning Gibbous Fading",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 274,
+    "RecordName": 274,
     "MonthNumber": 13,
     "Month": "Brewfest",
     "Day": 1,
@@ -3284,11 +3284,11 @@
     "Season": "This seven-day period marks the transition from Summer to Autumn.",
     "Luna": "Last Quarter",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 275,
+    "RecordName": 275,
     "MonthNumber": 13,
     "Month": "Brewfest",
     "Day": 2,
@@ -3296,11 +3296,11 @@
     "Season": "This seven-day period marks the transition from Summer to Autumn.",
     "Luna": "Last Quarter",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 276,
+    "RecordName": 276,
     "MonthNumber": 13,
     "Month": "Brewfest",
     "Day": 3,
@@ -3308,11 +3308,11 @@
     "Season": "This seven-day period marks the transition from Summer to Autumn.",
     "Luna": "Last Quarter Fading",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 277,
+    "RecordName": 277,
     "MonthNumber": 13,
     "Month": "Brewfest",
     "Day": 4,
@@ -3324,7 +3324,7 @@
     "Special": ""
   },
   {
-    "RecordNumber": 278,
+    "RecordName": 278,
     "MonthNumber": 13,
     "Month": "Brewfest",
     "Day": 5,
@@ -3332,11 +3332,11 @@
     "Season": "This seven-day period marks the transition from Summer to Autumn.",
     "Luna": "Waning Crescent",
     "Celene": "Full Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 279,
+    "RecordName": 279,
     "MonthNumber": 13,
     "Month": "Brewfest",
     "Day": 6,
@@ -3344,11 +3344,11 @@
     "Season": "This seven-day period marks the transition from Summer to Autumn.",
     "Luna": "Waning Crescent",
     "Celene": "Full Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 280,
+    "RecordName": 280,
     "MonthNumber": 13,
     "Month": "Brewfest",
     "Day": 7,
@@ -3356,11 +3356,11 @@
     "Season": "This seven-day period marks the transition from Summer to Autumn.",
     "Luna": "Waning Crescent Fading",
     "Celene": "Full Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 281,
+    "RecordName": 281,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 1,
@@ -3368,11 +3368,11 @@
     "Season": "Autumn",
     "Luna": "New Moon",
     "Celene": "Full Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 282,
+    "RecordName": 282,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 2,
@@ -3380,11 +3380,11 @@
     "Season": "Autumn",
     "Luna": "New Moon",
     "Celene": "Full Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 283,
+    "RecordName": 283,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 3,
@@ -3392,11 +3392,11 @@
     "Season": "Autumn",
     "Luna": "New Moon Fading",
     "Celene": "Waning Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 284,
+    "RecordName": 284,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 4,
@@ -3404,11 +3404,11 @@
     "Season": "Autumn",
     "Luna": "New Moon Fading",
     "Celene": "Waning Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 285,
+    "RecordName": 285,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 5,
@@ -3416,11 +3416,11 @@
     "Season": "Autumn",
     "Luna": "Waxing Crescent",
     "Celene": "Waning Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 286,
+    "RecordName": 286,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 6,
@@ -3428,11 +3428,11 @@
     "Season": "Autumn",
     "Luna": "Waxing Crescent",
     "Celene": "Waning Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 287,
+    "RecordName": 287,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 7,
@@ -3440,11 +3440,11 @@
     "Season": "Autumn",
     "Luna": "Waxing Crescent Fading",
     "Celene": "Waning Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 288,
+    "RecordName": 288,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 8,
@@ -3452,11 +3452,11 @@
     "Season": "Autumn",
     "Luna": "First Quarter",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 289,
+    "RecordName": 289,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 9,
@@ -3464,11 +3464,11 @@
     "Season": "Autumn",
     "Luna": "First Quarter",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 290,
+    "RecordName": 290,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 10,
@@ -3476,11 +3476,11 @@
     "Season": "Autumn",
     "Luna": "First Quarter Fading",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 291,
+    "RecordName": 291,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 11,
@@ -3488,11 +3488,11 @@
     "Season": "Autumn",
     "Luna": "First Quarter Fading",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 292,
+    "RecordName": 292,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 12,
@@ -3500,11 +3500,11 @@
     "Season": "Autumn",
     "Luna": "Waxing Gibbous",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 293,
+    "RecordName": 293,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 13,
@@ -3512,11 +3512,11 @@
     "Season": "Autumn",
     "Luna": "Waxing Gibbous",
     "Celene": "Waning Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 294,
+    "RecordName": 294,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 14,
@@ -3524,11 +3524,11 @@
     "Season": "Autumn",
     "Luna": "Waxing Gibbous Fading",
     "Celene": "Last Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 295,
+    "RecordName": 295,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 15,
@@ -3536,11 +3536,11 @@
     "Season": "Autumn",
     "Luna": "Full Moon",
     "Celene": "Last Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 296,
+    "RecordName": 296,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 16,
@@ -3548,11 +3548,11 @@
     "Season": "Autumn",
     "Luna": "Full Moon",
     "Celene": "Last Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 297,
+    "RecordName": 297,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 17,
@@ -3560,11 +3560,11 @@
     "Season": "Autumn",
     "Luna": "Full Moon Fading",
     "Celene": "Last Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 298,
+    "RecordName": 298,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 18,
@@ -3572,11 +3572,11 @@
     "Season": "Autumn",
     "Luna": "Full Moon Fading",
     "Celene": "Last Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 299,
+    "RecordName": 299,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 19,
@@ -3584,11 +3584,11 @@
     "Season": "Autumn",
     "Luna": "Waning Gibbous",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 300,
+    "RecordName": 300,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 20,
@@ -3596,11 +3596,11 @@
     "Season": "Autumn",
     "Luna": "Waning Gibbous",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 301,
+    "RecordName": 301,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 21,
@@ -3608,11 +3608,11 @@
     "Season": "Autumn",
     "Luna": "Waning Gibbous Fading",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 302,
+    "RecordName": 302,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 22,
@@ -3620,11 +3620,11 @@
     "Season": "Autumn",
     "Luna": "Last Quarter",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 303,
+    "RecordName": 303,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 23,
@@ -3632,11 +3632,11 @@
     "Season": "Autumn",
     "Luna": "Last Quarter",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 304,
+    "RecordName": 304,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 24,
@@ -3644,11 +3644,11 @@
     "Season": "Autumn",
     "Luna": "Last Quarter Fading",
     "Celene": "Last Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 305,
+    "RecordName": 305,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 25,
@@ -3656,11 +3656,11 @@
     "Season": "Autumn",
     "Luna": "Last Quarter Fading",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 306,
+    "RecordName": 306,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 26,
@@ -3668,11 +3668,11 @@
     "Season": "Autumn",
     "Luna": "Waning Crescent",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 307,
+    "RecordName": 307,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 27,
@@ -3680,11 +3680,11 @@
     "Season": "Autumn",
     "Luna": "Waning Crescent",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 308,
+    "RecordName": 308,
     "MonthNumber": 14,
     "Month": "Patchwell",
     "Day": 28,
@@ -3692,11 +3692,11 @@
     "Season": "Autumn",
     "Luna": "Waning Crescent Fading",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 309,
+    "RecordName": 309,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 1,
@@ -3704,11 +3704,11 @@
     "Season": "Autumn",
     "Luna": "New Moon",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 310,
+    "RecordName": 310,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 2,
@@ -3716,11 +3716,11 @@
     "Season": "Autumn",
     "Luna": "New Moon",
     "Celene": "Waning Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 311,
+    "RecordName": 311,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 3,
@@ -3728,11 +3728,11 @@
     "Season": "Autumn",
     "Luna": "New Moon Fading",
     "Celene": "Waning Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 312,
+    "RecordName": 312,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 4,
@@ -3740,11 +3740,11 @@
     "Season": "Autumn",
     "Luna": "New Moon Fading",
     "Celene": "Waning Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 313,
+    "RecordName": 313,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 5,
@@ -3752,11 +3752,11 @@
     "Season": "Autumn",
     "Luna": "Waxing Crescent",
     "Celene": "Waning Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 314,
+    "RecordName": 314,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 6,
@@ -3764,11 +3764,11 @@
     "Season": "Autumn",
     "Luna": "Waxing Crescent",
     "Celene": "Waning Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 315,
+    "RecordName": 315,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 7,
@@ -3776,11 +3776,11 @@
     "Season": "Autumn",
     "Luna": "Waxing Crescent Fading",
     "Celene": "Waning Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 316,
+    "RecordName": 316,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 8,
@@ -3788,11 +3788,11 @@
     "Season": "Autumn",
     "Luna": "First Quarter",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 317,
+    "RecordName": 317,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 9,
@@ -3800,11 +3800,11 @@
     "Season": "Autumn",
     "Luna": "First Quarter",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 318,
+    "RecordName": 318,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 10,
@@ -3812,11 +3812,11 @@
     "Season": "Autumn",
     "Luna": "First Quarter Fading",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 319,
+    "RecordName": 319,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 11,
@@ -3824,11 +3824,11 @@
     "Season": "Autumn",
     "Luna": "First Quarter Fading",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 320,
+    "RecordName": 320,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 12,
@@ -3836,11 +3836,11 @@
     "Season": "Autumn",
     "Luna": "Waxing Gibbous",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 321,
+    "RecordName": 321,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 13,
@@ -3848,11 +3848,11 @@
     "Season": "Autumn",
     "Luna": "Waxing Gibbous",
     "Celene": "New Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 322,
+    "RecordName": 322,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 14,
@@ -3860,11 +3860,11 @@
     "Season": "Autumn",
     "Luna": "Waxing Gibbous Fading",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 323,
+    "RecordName": 323,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 15,
@@ -3872,11 +3872,11 @@
     "Season": "Autumn",
     "Luna": "Full Moon",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 324,
+    "RecordName": 324,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 16,
@@ -3884,11 +3884,11 @@
     "Season": "Autumn",
     "Luna": "Full Moon",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 325,
+    "RecordName": 325,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 17,
@@ -3896,11 +3896,11 @@
     "Season": "Autumn",
     "Luna": "Full Moon Fading",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 326,
+    "RecordName": 326,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 18,
@@ -3908,11 +3908,11 @@
     "Season": "Autumn",
     "Luna": "Full Moon Fading",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 327,
+    "RecordName": 327,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 19,
@@ -3920,11 +3920,11 @@
     "Season": "Autumn",
     "Luna": "Waning Gibbous",
     "Celene": "New Moon Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 328,
+    "RecordName": 328,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 20,
@@ -3932,11 +3932,11 @@
     "Season": "Autumn",
     "Luna": "Waning Gibbous",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 329,
+    "RecordName": 329,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 21,
@@ -3944,11 +3944,11 @@
     "Season": "Autumn",
     "Luna": "Waning Gibbous Fading",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 330,
+    "RecordName": 330,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 22,
@@ -3956,11 +3956,11 @@
     "Season": "Autumn",
     "Luna": "Last Quarter",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 331,
+    "RecordName": 331,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 23,
@@ -3968,11 +3968,11 @@
     "Season": "Autumn",
     "Luna": "Last Quarter",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 332,
+    "RecordName": 332,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 24,
@@ -3980,11 +3980,11 @@
     "Season": "Autumn",
     "Luna": "Last Quarter Fading",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 333,
+    "RecordName": 333,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 25,
@@ -3992,11 +3992,11 @@
     "Season": "Autumn",
     "Luna": "Last Quarter Fading",
     "Celene": "Waxing Crescent",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 334,
+    "RecordName": 334,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 26,
@@ -4004,11 +4004,11 @@
     "Season": "Autumn",
     "Luna": "Waning Crescent",
     "Celene": "Waxing Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 335,
+    "RecordName": 335,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 27,
@@ -4016,11 +4016,11 @@
     "Season": "Autumn",
     "Luna": "Waning Crescent",
     "Celene": "Waxing Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 336,
+    "RecordName": 336,
     "MonthNumber": 15,
     "Month": "Ready'reat",
     "Day": 28,
@@ -4028,11 +4028,11 @@
     "Season": "Autumn",
     "Luna": "Waning Crescent Fading",
     "Celene": "Waxing Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 337,
+    "RecordName": 337,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 1,
@@ -4040,11 +4040,11 @@
     "Season": "Winter",
     "Luna": "New Moon",
     "Celene": "Waxing Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 338,
+    "RecordName": 338,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 2,
@@ -4052,11 +4052,11 @@
     "Season": "Winter",
     "Luna": "New Moon",
     "Celene": "Waxing Crescent Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 339,
+    "RecordName": 339,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 3,
@@ -4064,11 +4064,11 @@
     "Season": "Winter",
     "Luna": "New Moon Fading",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 340,
+    "RecordName": 340,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 4,
@@ -4076,11 +4076,11 @@
     "Season": "Winter",
     "Luna": "New Moon Fading",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 341,
+    "RecordName": 341,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 5,
@@ -4088,11 +4088,11 @@
     "Season": "Winter",
     "Luna": "Waxing Crescent",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 342,
+    "RecordName": 342,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 6,
@@ -4100,11 +4100,11 @@
     "Season": "Winter",
     "Luna": "Waxing Crescent",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 343,
+    "RecordName": 343,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 7,
@@ -4112,11 +4112,11 @@
     "Season": "Winter",
     "Luna": "Waxing Crescent Fading",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 344,
+    "RecordName": 344,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 8,
@@ -4124,11 +4124,11 @@
     "Season": "Winter",
     "Luna": "First Quarter",
     "Celene": "First Quarter",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 345,
+    "RecordName": 345,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 9,
@@ -4136,11 +4136,11 @@
     "Season": "Winter",
     "Luna": "First Quarter",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 346,
+    "RecordName": 346,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 10,
@@ -4148,11 +4148,11 @@
     "Season": "Winter",
     "Luna": "First Quarter Fading",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 347,
+    "RecordName": 347,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 11,
@@ -4160,11 +4160,11 @@
     "Season": "Winter",
     "Luna": "First Quarter Fading",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 348,
+    "RecordName": 348,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 12,
@@ -4172,11 +4172,11 @@
     "Season": "Winter",
     "Luna": "Waxing Gibbous",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 349,
+    "RecordName": 349,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 13,
@@ -4184,11 +4184,11 @@
     "Season": "Winter",
     "Luna": "Waxing Gibbous",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 350,
+    "RecordName": 350,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 14,
@@ -4196,11 +4196,11 @@
     "Season": "Winter",
     "Luna": "Waxing Gibbous Fading",
     "Celene": "First Quarter Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 351,
+    "RecordName": 351,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 15,
@@ -4208,11 +4208,11 @@
     "Season": "Winter",
     "Luna": "Full Moon",
     "Celene": "Waxing Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 352,
+    "RecordName": 352,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 16,
@@ -4220,11 +4220,11 @@
     "Season": "Winter",
     "Luna": "Full Moon",
     "Celene": "Waxing Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 353,
+    "RecordName": 353,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 17,
@@ -4232,11 +4232,11 @@
     "Season": "Winter",
     "Luna": "Full Moon Fading",
     "Celene": "Waxing Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 354,
+    "RecordName": 354,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 18,
@@ -4244,11 +4244,11 @@
     "Season": "Winter",
     "Luna": "Full Moon Fading",
     "Celene": "Waxing Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 355,
+    "RecordName": 355,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 19,
@@ -4256,11 +4256,11 @@
     "Season": "Winter",
     "Luna": "Waning Gibbous",
     "Celene": "Waxing Gibbous",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 356,
+    "RecordName": 356,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 20,
@@ -4268,11 +4268,11 @@
     "Season": "Winter",
     "Luna": "Waning Gibbous",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 357,
+    "RecordName": 357,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 21,
@@ -4280,11 +4280,11 @@
     "Season": "Winter",
     "Luna": "Waning Gibbous Fading",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 358,
+    "RecordName": 358,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 22,
@@ -4292,11 +4292,11 @@
     "Season": "Winter",
     "Luna": "Last Quarter",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 359,
+    "RecordName": 359,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 23,
@@ -4304,11 +4304,11 @@
     "Season": "Winter",
     "Luna": "Last Quarter",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 360,
+    "RecordName": 360,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 24,
@@ -4316,11 +4316,11 @@
     "Season": "Winter",
     "Luna": "Last Quarter Fading",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 361,
+    "RecordName": 361,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 25,
@@ -4328,11 +4328,11 @@
     "Season": "Winter",
     "Luna": "Last Quarter Fading",
     "Celene": "Waxing Gibbous Fading",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 362,
+    "RecordName": 362,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 26,
@@ -4340,11 +4340,11 @@
     "Season": "Winter",
     "Luna": "Waning Crescent",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 363,
+    "RecordName": 363,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 27,
@@ -4352,11 +4352,11 @@
     "Season": "Winter",
     "Luna": "Waning Crescent",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   },
   {
-    "RecordNumber": 364,
+    "RecordName": 364,
     "MonthNumber": 16,
     "Month": "Sunsebb",
     "Day": 28,
@@ -4364,7 +4364,7 @@
     "Season": "Winter",
     "Luna": "Waning Crescent Fading",
     "Celene": "Full Moon",
-    "Solstace": "",
-    "Special": ""
+    "Solstace": " ",
+    "Special": " "
   }
 ]

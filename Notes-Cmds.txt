@@ -1,0 +1,4 @@
+Notes for Greyhawk Project
+
+aws dynamodb put-item --table-name greyhawk_calendar_data --item file://data.json
+
