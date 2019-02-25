@@ -1,5 +1,13 @@
 # greyhawk
 
+## Repo Structure
+### Data directory
+This is for a copy of the data
+### Powershell directory
+This is for a working copy of the powershell program
+### Python directory
+This is for a WIP copy of the JSON, Python scripts and test data
+
 ## Purpose:
 This is going to give details about any given day in the Oerth (Greyhawk) fantasy calendar. The main focus is the moon cycles.
 
