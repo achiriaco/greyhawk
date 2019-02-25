@@ -36,14 +36,4 @@ Write-Host "Other Facts of the day:" $Requested.Special
             .EXAMPLE
             Greyhawk.ps1
 
-            .EXAMPLE
-
-            .EXAMPLE
-
-
-            .LINK
-            
-
-            .LINK
-            
             #>

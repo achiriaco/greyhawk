@@ -1,6 +1,6 @@
-#Pilgrams
+# Pilgrams
 
-##Greyhawk and Verbobonc:
+## Greyhawk and Verbobonc:
 The Free City of Greyhawk is, of course, one of the
 most cosmopolitan places in the Flanaess. Faiths of
 every description can be found there openly, with the
@@ -28,7 +28,7 @@ several well-hidden temples of Nerull in Furyondy and
 Veluna.
 
 
-##Furyondy, Shield Lands, and Veluna:
+## Furyondy, Shield Lands, and Veluna:
 The faith of Saint Cuthbert of the Cudgel is very wellentrenched
 within the lands of the central-west
 Flanaess. Lawful Good pilgrims encountered here will
@@ -65,7 +65,7 @@ even to the most knowledgeable of sages.
 
 
 
-#Counterspells in AD&D
+# Counterspells in AD&D
 (December 28, 2008) (December 28, 2008)
 Chgowiz has a fascinating post8 up on his blog tonight,
 dealing with the topic of counter-spells. Turns out that

@@ -6,10 +6,7 @@
 import json
 
 # json_string = '{"Month": "Sunsebb",, "Day": 22}'
-
-
 # parsed_json = json.loads(json_string)
-
 # print (parsed_json["Month"])
 
 path = "data.json"
