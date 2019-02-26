@@ -30,6 +30,10 @@ table = dynamodb.create_table(
         {
             'AttributeName': 'Month',
             'KeyType': 'RANGE'  #Sort key
+        },
+        {
+            'AttributeName': 'Day',
+            'KeyType': 'RANGE'  #Sort key
         }
     ],
     AttributeDefinitions=[
@@ -40,6 +44,10 @@ table = dynamodb.create_table(
         {
             'AttributeName': 'Month',
             'AttributeType': 'S'
+        },
+        {
+            'AttributeName': 'Day',
+            'AttributeType': 'N'
         },
 
     ],

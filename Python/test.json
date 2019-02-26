@@ -1,14 +1,3 @@
-[
-  {
-    "RecordName": 365,
-    "MonthNumber": 16,
-    "Month": "TEST",
-    "Day": 28,
-    "DayOfWeek": "Freeday",
-    "Season": "Winter",
-    "Luna": "Waning Crescent Fading",
-    "Celene": "Full Moon",
-    "Solstace": "None",
-    "Special": "None"
-  }
-]
+{
+  "Month": {"S": "RichFest"}
+}
