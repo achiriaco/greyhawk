@@ -1,12 +1,50 @@
-{
-  "RecordName": 4,
-  "MonthNumber": 1,
-  "Month": "Needfest",
-  "Day": 4,
-  "DayOfWeek": "Godsday",
-  "Season": "This frigid seven-day period marks the transition from one calendar year to another, and is usually accounted as the start of the new year.",
-  "Luna": "New Moon Fading",
-  "Celene": "Full Moon Fading",
-  "Solstace": "The Winter Solstice is the shortest day of the year.",
-  "Special": "None"
-}
+[
+  {
+    "RecordName": 1,
+    "MonthNumber": 1,
+    "Month": "Needfest",
+    "Day": 1,
+    "DayOfWeek": "Starday",
+    "Season": "This frigid seven-day period marks the transition from one calendar year to another, and is usually accounted as the start of the new year.",
+    "Luna": "New Moon",
+    "Celene": "Full Moon",
+    "Solstace": " ",
+    "Special": " "
+  },
+  {
+    "RecordName": 2,
+    "MonthNumber": 1,
+    "Month": "Needfest",
+    "Day": 2,
+    "DayOfWeek": "Sunday",
+    "Season": "This frigid seven-day period marks the transition from one calendar year to another, and is usually accounted as the start of the new year.",
+    "Luna": "New Moon",
+    "Celene": "Full Moon",
+    "Solstace": " ",
+    "Special": " "
+  },
+  {
+    "RecordName": 3,
+    "MonthNumber": 1,
+    "Month": "Needfest",
+    "Day": 3,
+    "DayOfWeek": "Moonday",
+    "Season": "This frigid seven-day period marks the transition from one calendar year to another, and is usually accounted as the start of the new year.",
+    "Luna": "New Moon Fading",
+    "Celene": "Full Moon",
+    "Solstace": " ",
+    "Special": " "
+  },
+  {
+    "RecordName": 4,
+    "MonthNumber": 1,
+    "Month": "Needfest",
+    "Day": 4,
+    "DayOfWeek": "Godsday",
+    "Season": "This frigid seven-day period marks the transition from one calendar year to another, and is usually accounted as the start of the new year.",
+    "Luna": "New Moon Fading",
+    "Celene": "Full Moon Fading",
+    "Solstace": "The Winter Solstice is the shortest day of the year.",
+    "Special": ""
+  }
+]
