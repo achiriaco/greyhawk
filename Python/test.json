@@ -1,12 +1,14 @@
-{
-  "RecordName": 4,
-  "MonthNumber": 1,
-  "Month": "Needfest",
-  "Day": 4,
-  "DayOfWeek": "Godsday",
-  "Season": "This frigid seven-day period marks the transition from one calendar year to another, and is usually accounted as the start of the new year.",
-  "Luna": "New Moon Fading",
-  "Celene": "Full Moon Fading",
-  "Solstace": "The Winter Solstice is the shortest day of the year.",
-  "Special": "None"
-}
+[
+  {
+    "RecordName": 365,
+    "MonthNumber": 16,
+    "Month": "TEST",
+    "Day": 28,
+    "DayOfWeek": "Freeday",
+    "Season": "Winter",
+    "Luna": "Waning Crescent Fading",
+    "Celene": "Full Moon",
+    "Solstace": "None",
+    "Special": "None"
+  }
+]
