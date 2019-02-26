@@ -24,7 +24,6 @@ table = dynamodb.Table('greyhawk-calendar-data')
 with open("data.json") as json_file:
     data = json.load(json_file, parse_float = decimal.Decimal)
     for info in data:
-        RecordName = int(info['RecordName'])
         MonthNumber = int(info['MonthNumber'])
         Month = info['Month']
         Day = int(info['Day'])
@@ -41,7 +40,6 @@ with open("data.json") as json_file:
 
         table.put_item(
            Item={
-               "RecordName": RecordName,
                 "MonthNumber": MonthNumber,
                 "Month": Month,
                 "Day": Day,

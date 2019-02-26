@@ -24,12 +24,8 @@ table = dynamodb.create_table(
     TableName='greyhawk-calendar-data',
     KeySchema=[
         {
-            'AttributeName': 'RecordName',
-            'KeyType': 'HASH'  #Partition key
-        },
-        {
             'AttributeName': 'Month',
-            'KeyType': 'RANGE'  #Sort key
+            'KeyType': 'HASH'  #Partition key
         },
         {
             'AttributeName': 'Day',
@@ -38,18 +34,13 @@ table = dynamodb.create_table(
     ],
     AttributeDefinitions=[
         {
-            'AttributeName': 'RecordName',
-            'AttributeType': 'N'
-        },
-        {
             'AttributeName': 'Month',
             'AttributeType': 'S'
         },
         {
             'AttributeName': 'Day',
             'AttributeType': 'N'
-        },
-
+        }
     ],
     ProvisionedThroughput={
         'ReadCapacityUnits': 1,
