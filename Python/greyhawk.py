@@ -34,11 +34,11 @@ def read_json(path):
                     print("The Season is: " + Season)
                     print("The Moon Luna is: " + Luna)
                     print("The Moon Celene is: " + Celene)
-                    if not Solstace == "":
+                    if not Solstace == "None":
                         print("The Solstace is: " + Solstace)
-                    if not Special == "":
-                        print(Special)
-                                       
+                    if Special != "None":
+                        print("This is the Special Field: " + Special)
+
 
 '''if name == main is for running code when it is the main module. This code will not run if this module gets imported, it is good for keeping test code without running when importing'''
 if __name__ == '__main__':

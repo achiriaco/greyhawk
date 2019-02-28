@@ -2,3 +2,6 @@ Notes for Greyhawk Project
 
 aws dynamodb put-item --table-name greyhawk_calendar_data --item file://data.json
 
+
+
+aws dynamodb get-item --table-name greyhawk-calendar-data --key file://test.json
